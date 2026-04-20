@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Samarth 👋
 
-<!--
-**Samarth-codes17/Samarth-codes17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🎯 Future Computer Science Student  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Chatbot (coming soon)
+- Student Management System (coming soon)
+- Quiz Game (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python (learning)
+- Problem Solving
+
+## 📈 Goal
+To become a top software developer and study abroad
